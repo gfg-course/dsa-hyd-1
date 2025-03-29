@@ -1,0 +1,9 @@
+TODO Problems using DFS:
+
+- https://www.geeksforgeeks.org/batch/dsa-hyderabad-1/track/DSASP-Graph/problem/depth-first-traversal-for-a-graph
+- https://www.geeksforgeeks.org/batch/dsa-hyderabad-1/track/DSASP-Graph/problem/find-the-number-of-islands
+- https://www.geeksforgeeks.org/batch/dsa-hyderabad-1/track/DSASP-Graph/problem/find-whether-path-exist5238
+- https://www.geeksforgeeks.org/batch/dsa-hyderabad-1/track/DSASP-Graph/problem/possible-paths-between-2-vertices-1587115620
+- https://www.geeksforgeeks.org/batch/dsa-hyderabad-1/track/DSASP-Graph/problem/x-total-shapes3617
+- https://www.geeksforgeeks.org/batch/dsa-hyderabad-1/track/DSASP-Graph/problem/mother-vertex
+- https://www.geeksforgeeks.org/batch/dsa-hyderabad-1/track/DSASP-Graph/problem/length-of-largest-region-of-1s-1587115620
